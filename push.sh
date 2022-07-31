@@ -1,3 +1,5 @@
 #!/bin/bash
 
-git add . && git commit -m "initial" && git push origin master
+git add .
+git commit -m "updates"
+git push origin master
