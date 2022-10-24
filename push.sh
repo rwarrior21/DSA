@@ -2,4 +2,4 @@
 
 git add .
 git commit -m "updates"
-git push origin master
+git push origin -u master
